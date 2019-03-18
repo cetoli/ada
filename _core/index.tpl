@@ -5,9 +5,12 @@
     <meta http-equiv="content-type" content="application/xml;charset=utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="utf-8">
-    <script type="text/javascript" src="https://j.mp/brython_371"></script>
+    <!--script type="text/javascript" src="https://j.mp/brython_371"></script -->
     <script type="text/javascript"
-        src="https://cdnjs.cloudflare.com/ajax/libs/brython/3.7.1/brython_stdlib.js">
+        src="https://cdnjs.cloudflare.com/ajax/libs/brython/3.4.0/brython.min.js">
+    </script>
+    <script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/brython/3.4.0/brython_stdlib.js">
     </script>
     <link rel="stylesheet"
           href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/default.min.css">
